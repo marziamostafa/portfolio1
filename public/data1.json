@@ -1,0 +1,30 @@
+{
+    "_id": 1,
+    "name": "Bookworms",
+    "tools": [
+        "React JS",
+        "Stripe",
+        "React Router",
+        "Node JS",
+        "MongoDB",
+        "Express JS",
+        "ImageBB",
+        "Firebase",
+        "Tailwind"
+    ],
+    "image": "https://i.ibb.co/bvbLCf7/image.png",
+    "liveSite": "https://bookworms-a630e.web.app/",
+    "clientSiteCode": "https://github.com/marziamostafa/assignment12-used_products_resale_clients_side",
+    "serverSiteCode": "https://github.com/marziamostafa/assignment12-used_products_resale_server_side",
+    "details": "An online based book shop where you can buy old books as a buyer. And can sell books as a seller",
+    "img1": "",
+    "img2": "",
+    "img": "",
+    "bulletPoints": [
+        "1. Admin will have all type of access. ",
+        "2. User can sign up as a seller or buyer.",
+        "3. Buyer can book/buy/ report any product and will be able to pay through card. ",
+        "4. Seller can add and delete any product. Also will be able to advertise any product. ",
+        "5. Admin can verify any seller. Dynamic routes Possibility."
+    ]
+}

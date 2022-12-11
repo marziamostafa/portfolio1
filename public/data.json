@@ -1,0 +1,88 @@
+[
+    {
+        "_id": 1,
+        "name": "Bookworms",
+        "tools": [
+            "React JS",
+            "Stripe",
+            "React Router",
+            "Node JS",
+            "MongoDB",
+            "Express JS",
+            "ImageBB",
+            "Firebase",
+            "Tailwind"
+        ],
+        "image": "https://i.ibb.co/bvbLCf7/image.png",
+        "liveSite": "https://bookworms-a630e.web.app/",
+        "clientSiteCode": "https://github.com/marziamostafa/assignment12-used_products_resale_clients_side",
+        "serverSiteCode": "https://github.com/marziamostafa/assignment12-used_products_resale_server_side",
+        "details": "An online based book shop where you can buy old books as a buyer. And can sell books as a seller",
+        "img1": "",
+        "img2": "",
+        "img": "",
+        "bulletPoints": [
+            "1. Admin will have all type of access. ",
+            "2. User can sign up as a seller or buyer.",
+            "3. Buyer can book/buy/ report any product and will be able to pay through card. ",
+            "4. Seller can add and delete any product. Also will be able to advertise any product. ",
+            "5. Admin can verify any seller. Dynamic routes Possibility."
+        ]
+    },
+    {
+        "_id": 2,
+        "name": "Foodie",
+        "tools": [
+            "React JS",
+            "Node JS",
+            "MongoDB",
+            "React Router",
+            "Express JS",
+            "Firebase",
+            "Tailwind"
+        ],
+        "image": "https://i.ibb.co/J7wRywx/image.png",
+        "liveSite": "https://foodie-e6ec7.web.app/",
+        "clientSiteCode": "https://github.com/marziamostafa/assignment11-service_review_client_side",
+        "serverSiteCode": "https://github.com/marziamostafa/assignment11-service_review_server_side",
+        "details": "An online restaurent where you can get home delivery and give review",
+        "img1": "",
+        "img2": "",
+        "img": "",
+        "bulletPoints": [
+            "1. Login, sign in option with email, Google. ",
+            "2. A service side based on foods. Any user can add service. ",
+            "3.  User can give Review. Delete review, view all reviews. ",
+            "4. Dynamic Route added. ",
+            "5. "
+        ]
+    },
+    {
+        "_id": 3,
+        "name": "Learn Online",
+        "tools": [
+            "React JS",
+            "Node JS",
+            "MongoDB",
+            "React Router",
+            "Express JS",
+            "Firebase",
+            "Bootstrap"
+        ],
+        "image": "https://i.ibb.co/cCB9Yct/image.png",
+        "liveSite": "https://b610-learning-platform.firebaseapp.com/",
+        "clientSiteCode": "https://github.com/marziamostafa/assignment10-learning_platform_client_side",
+        "serverSiteCode": "https://github.com/marziamostafa/assignment10-learning_platform_server_side",
+        "details": "A website that provides courses to gain knowledge",
+        "img1": "",
+        "img2": "",
+        "img": "",
+        "bulletPoints": [
+            "1. Can change into dark mode or light mode.  ",
+            "2. Login with email and password, github and goggle.",
+            "3. Private route added",
+            "4.  User name and picture added on the header. ",
+            "5. "
+        ]
+    }
+]
